@@ -3,7 +3,7 @@
 
 (C3) Native Javascript Web3 Wallet Plugin.
 
-Currently Support:
+** Supports:
 * Phantom Browser Wallet
 * Phantom Mobile Wallet
 * Solflare Browser Wallet
