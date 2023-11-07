@@ -1,5 +1,7 @@
 # Connect 3
-![McSwap](https://connect.mcdegen.xyz/connect_3/icon-150.jpg)
+![Connect 3](https://connect.mcdegen.xyz/connect_3/icon-150.jpg)
+![Connect 3](https://connect.mcdegen.xyz/connect_3/connect_3_snapshot.png)
+
 
 (C3) Native Javascript Web3 Wallet Plugin.
 
