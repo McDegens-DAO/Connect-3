@@ -3,6 +3,8 @@
 
 (C3) Native Javascript Web3 Wallet Plugin.
 
+This plugin provides a basic Solana Web3 wallet connection.
+
 ## Supported Wallets:
 * Phantom Browser Wallet
 * Phantom Mobile Wallet
