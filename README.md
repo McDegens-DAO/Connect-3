@@ -20,3 +20,12 @@
 <button class="connect_3_button">Connect</button>
 <button class="disconnect_3_button">Disconnect</button>
 ```
+
+4. Add the Connect 3 container and script immediately before the closing body tag.
+```html
+<div id="connect_3"></div>
+<script src="connect_3.js"></script>
+```
+
+Please see the source code of the example.html file.
+[config/proxy.php](https://github.com/McDegens-DAO/Connect-3/blob/main/connect_3/example.html)
