@@ -27,6 +27,8 @@ If connecting from a mobile device browser, the user is redirected to the native
 
 1. Make sure your metatag title and icon images are included in the head of your page.
 ```html
+<title>Connect 3</title>
+<meta name="description" content="Native Javascript Web3 Wallet Plugin." />
 <meta property="og:image" content="https://connect.mcdegen.xyz/connect_3/icon-150.jpg">
 <link rel="icon" href="https://connect.mcdegen.xyz/connect_3/icon-150.jpg" type="image/png">
 <link rel="apple-touch-icon" href="https://connect.mcdegen.xyz/connect_3/icon-150.jpg" type="image/png">
