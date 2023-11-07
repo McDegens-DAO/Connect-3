@@ -1,0 +1,265 @@
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Ubuntu Mono';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/ubuntumono/v15/KFOjCneDtsqEr0keqCMhbCc3CsTKlA.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Ubuntu Mono';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/ubuntumono/v15/KFOjCneDtsqEr0keqCMhbCc-CsTKlA.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Ubuntu Mono';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/ubuntumono/v15/KFOjCneDtsqEr0keqCMhbCc2CsTKlA.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Ubuntu Mono';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/ubuntumono/v15/KFOjCneDtsqEr0keqCMhbCc5CsTKlA.woff2) format('woff2');
+  unicode-range: U+0370-03FF;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Ubuntu Mono';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/ubuntumono/v15/KFOjCneDtsqEr0keqCMhbCc0CsTKlA.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Ubuntu Mono';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/ubuntumono/v15/KFOjCneDtsqEr0keqCMhbCc6CsQ.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Ubuntu Mono';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/ubuntumono/v15/KFO-CneDtsqEr0keqCMhbC-BL9H4tY12eg.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Ubuntu Mono';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/ubuntumono/v15/KFO-CneDtsqEr0keqCMhbC-BL9HxtY12eg.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Ubuntu Mono';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/ubuntumono/v15/KFO-CneDtsqEr0keqCMhbC-BL9H5tY12eg.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Ubuntu Mono';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/ubuntumono/v15/KFO-CneDtsqEr0keqCMhbC-BL9H2tY12eg.woff2) format('woff2');
+  unicode-range: U+0370-03FF;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Ubuntu Mono';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/ubuntumono/v15/KFO-CneDtsqEr0keqCMhbC-BL9H7tY12eg.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Ubuntu Mono';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/ubuntumono/v15/KFO-CneDtsqEr0keqCMhbC-BL9H1tY0.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+#connect_3_cover{
+  display: none;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  z-index: 1000;
+  background: #222d07;
+  background: #000;
+  opacity: 0;
+  top: 0;
+  left: 0;
+}
+#connect_3_message{
+  display: block;
+  position: absolute;
+  float: left;
+  top: 25%;
+  font-family: 'Oxygen', sans-serif;
+  font-weight: 300;
+  font-size: 20px;
+  color: #f7f7f7;
+  text-shadow: 2px 2px #111;
+  width: 100%;
+  height: 100px;
+  z-index: 11;
+  text-align: center;
+  animation: connect_3_blinker 1.5s linear infinite;
+}
+@keyframes connect_3_blinker {
+  50% {
+      opacity: 0.25;
+ }
+}
+#connect_3_chooser {
+  border-radius: 12px;
+  width: 300px;
+  position: fixed;
+  display: none;
+  top: calc(50% - 135px);
+  left: calc(50% - 150px);
+  z-index: 1001;
+  -webkit-box-shadow: 0px 1px 1px 0px rgba(0, 0, 0, 1.0);
+  -moz-box-shadow: 0px 1px 1px 0px rgba(0, 0, 0, 1.0);
+  box-shadow: 0px 1px 1px 0px rgba(0, 0, 0, 1.0);
+  background: #fff;
+  padding-bottom: 11px;
+  opacity: 0;
+}
+#connect_3_chooser button {
+  background: #f1f1f1;
+  display: block;
+  margin: 11px 10px 0 10px;
+  border-radius: 11px;
+  border: none;
+  outline: none;
+  padding: 10px;
+  width: calc(100% - 20px);
+  text-align: left;
+  cursor: pointer;
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
+  -webkit-tap-highlight-color: transparent;
+}
+.connect_3_choice img{
+  display: block;
+  position: absolute;
+  width: 35px;
+  height: 35px;
+  margin: -5px 0 0 -5px;
+}
+button#connect_3_cancel img{
+  -webkit-filter: invert(100%);
+  filter: invert(100%);
+  width: 27px;
+  height: 27px;
+  margin: -1px 0 0 -3px;
+}
+button.connect_3_choice span{
+  display: inline-block;
+  vertical-align: top;
+  margin: 2px 0 0 98px;
+  font-family: 'Oxygen', sans-serif;
+  font-weight: bold;
+  font-size: 17px;
+  text-shadow: 1px 1px 1px #fff;
+  line-height: 23px;
+  height: 23px;
+}
+button#connect_3_backpack span {
+  color: #a72113;
+}
+button#connect_3_backpack:hover span{color: #ccc;}
+button#connect_3_solflare span {
+  color: #fea210;
+}
+button#connect_3_solflare:hover span{color: #ccc;}
+button#connect_3_phantom span {
+  color: #ab9ff2;
+}
+button#connect_3_phantom:hover span{color: #ccc;}
+button#connect_3_cancel span {
+  color: #000;
+}
+button#connect_3_cancel:hover span{color: #ccc;}
+.connect_3_button{
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
+  -webkit-tap-highlight-color: transparent;
+  width: 135px;
+  height: 40px;
+  text-align: center;
+  color: #111;
+  cursor: pointer;
+  border: 0;
+  border-radius: 10px;
+  font-weight: 700;
+  display: block;
+  position: fixed;
+  float: right;
+  right: 20px;
+  top: 20px;
+  font-family: Ubuntu;
+  font-size: 15px;
+  background: #f1f1f1;
+  z-index: 999;
+}
+.connect_3_button:hover{
+  background: #ccc;
+}
+.disconnect_3_button{
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
+  -webkit-tap-highlight-color: transparent;
+  display: block;
+  display: none;
+  width: 135px;
+  height: 40px;
+  text-align: center;
+  color: #111;
+  cursor: pointer;
+  border: 0;
+  border-radius: 10px;
+  font-weight: 700;
+  position: fixed;
+  float: right;
+  right: 20px;
+  top: 20px;
+  font-family: Ubuntu;
+  font-size: 15px;
+  background: #f1f1f1;
+  z-index: 999;
+}
+.disconnect_3_button:hover{
+  background: #ccc;
+}
+@media only screen and (max-width: 800px) {
+  button#connect_3_backpack{
+    display: none;
+  }
+}
