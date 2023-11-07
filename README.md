@@ -1,5 +1,6 @@
 # Connect 3
 ![McSwap](https://connect.mcdegen.xyz/connect_3/icon-150.jpg)
+
 (C3) Native Javascript Web3 Wallet Plugin.
 
 1. Make sure your metatag title and icon images are included in the head of your page.
