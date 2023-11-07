@@ -6,7 +6,7 @@
 
 (C3) Native Javascript Web3 Wallet Plugin.
 
-This plugin provides a basic Solana Web3 wallet connection using only native javascript.
+This plugin provides a basic Solana Web3 wallet connection using native javascript only.
 
 Developed by [Dapper](https://twitter.com/SolDapper) for [McDegens DAO](https://discord.com/invite/hXXDvYTQhj)
 
