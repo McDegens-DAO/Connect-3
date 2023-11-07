@@ -13,7 +13,7 @@
 ## Automatic Deeplinks
 If connecting from a mobile device browser, the user is redirected to the native mobile app when selecting Phantom or Solflare. If the user does not have the app installed, they are redirected to the wallets home website to download the mobile wallet app.
 
-## How to Use
+## Usage
 
 1. Make sure your metatag title and icon images are included in the head of your page.
 ```html
