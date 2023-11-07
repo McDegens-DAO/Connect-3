@@ -13,9 +13,9 @@
 <link rel="stylesheet" href="connect_3.css">
 ```
 
-3. Add butttons anywhere in the body of the page.
-* sdfsdfsdf
-* sdfsdfsdfsdf
+3. Add Connect and Disconnect buttons anywhere in the body of the page.
+* Element class for Connect buttons = connect_3_button
+* Element class for Disconnect buttons = disconnect_3_button
 ```html
 <button class="connect_3_button">Connect</button>
 <button class="disconnect_3_button">Disconnect</button>
