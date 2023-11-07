@@ -5,6 +5,9 @@
 
 This plugin provides a basic Solana Web3 wallet connection using only native javascript.
 
+## Live Demo
+[https://connect.mcdegen.xyz/connect_3/example.html](https://connect.mcdegen.xyz/connect_3/example.html)
+
 ## Supported Wallets:
 * Phantom Browser Wallet
 * Phantom Mobile Wallet
