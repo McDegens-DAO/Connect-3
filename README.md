@@ -40,4 +40,4 @@ If connecting from a mobile device browser, the user is redirected to the native
 ```
 
 Please see the source code of the example.html file.
-[config/proxy.php](https://github.com/McDegens-DAO/Connect-3/blob/main/connect_3/example.html)
+[connect_3/example.html](https://github.com/McDegens-DAO/Connect-3/blob/main/connect_3/example.html)
