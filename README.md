@@ -1,5 +1,5 @@
-# (C3) Connect 3
-Native Javascript Web3 Wallet Plugin.
+# Connect 3
+(C3) Native Javascript Web3 Wallet Plugin.
 
 1. Make sure your metatag title and icon link resources are included.
 ```html
