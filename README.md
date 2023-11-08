@@ -8,7 +8,9 @@
 
 This plugin provides a basic Solana Web3 wallet connection using native javascript only.
 
-Developed by [Dapper](https://twitter.com/SolDapper) for [McDegens DAO](https://discord.com/invite/hXXDvYTQhj)
+Published by: [McDegens DAO](https://discord.com/invite/hXXDvYTQhj)
+
+Developed by: [Dapper](https://twitter.com/SolDapper) 
 
 ## Live Demo
 [https://connect.mcdegen.xyz/connect_3/example.html](https://connect.mcdegen.xyz/connect_3/example.html)
