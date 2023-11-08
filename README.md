@@ -19,7 +19,7 @@ Developed by: [Dapper](https://twitter.com/SolDapper)
 * Phantom Browser Wallet
 * Phantom Mobile Wallet
 * Solflare Browser Wallet
-* SolFlare Mobile Wallet
+* Solflare Mobile Wallet
 * Backpack Browser Wallet
 
 ## Native Deeplinks
