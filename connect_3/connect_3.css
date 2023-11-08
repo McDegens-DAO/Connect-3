@@ -209,7 +209,7 @@ button#connect_3_cancel span {
   color: #000;
 }
 button#connect_3_cancel:hover span{color: #ccc;}
-.connect_3_button{
+/* .connect_3_button{
   -webkit-tap-highlight-color: rgba(0,0,0,0);
   -webkit-tap-highlight-color: transparent;
   width: 135px;
@@ -257,6 +257,9 @@ button#connect_3_cancel:hover span{color: #ccc;}
 }
 .disconnect_3_button:hover{
   background: #ccc;
+} */
+.disconnect_3_button{
+  display: none;
 }
 @media only screen and (max-width: 800px) {
   button#connect_3_backpack{
