@@ -12,8 +12,11 @@ Published by: [McDegens DAO](https://discord.com/invite/hXXDvYTQhj)
 
 Developed by: [Dapper](https://twitter.com/SolDapper) 
 
-## Live Demo
+## Connect-3 Demo (Native)
 [https://connect.mcdegen.xyz/connect_3/example.html](https://connect.mcdegen.xyz/connect_3/example.html)
+
+## Connect-3 Demo (jQuery)
+[FreeSolGamesDev](https://jsfiddle.net/user/FreeSolGamesDev/fiddles/) created a nice jquery derivation of Connect-3 with more features that you can find on jsfiddle [here](https://jsfiddle.net/FreeSolGamesDev/7a4yvx23/281/).
 
 ## Supported Wallets:
 * Phantom Browser Wallet
